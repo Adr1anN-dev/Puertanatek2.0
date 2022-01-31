@@ -261,5 +261,5 @@ __pycache__/
 *.pyc
 
 # Archivos del proyecto
-# .config
-# .sln
+*.config
+*.sln
